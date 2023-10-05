@@ -1,1 +1,14 @@
-hello I am leesuji
+#check folder and file list
+ls -a
+
+#check branch status
+git branch -a
+
+#check now location
+pwd
+
+#폴더 안으로 들어가는 방법(폴더랑 디렉토리랑 같은 개념)
+cd 폴더이름
+
+#깃에 대한 설명
+#내 컴퓨터 내부에 깃 저장소가 있고 깃 저장소를 통해서 인터넷에 있는 깃허브와 연결된다. git push 를 해야 깃허드에 올라감
